@@ -1,0 +1,2 @@
+DELETE FROM `wp_options` WHERE `option_name` LIKE '_transient_timeout_juiz_count%'
+DELETE FROM `wp_options` WHERE `option_name` LIKE '_transient_juiz_count%'

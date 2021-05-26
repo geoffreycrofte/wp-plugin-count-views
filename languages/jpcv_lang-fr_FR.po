@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Juiz Count Views\n"
+"POT-Creation-Date: 2015-07-26 14:39+0100\n"
+"PO-Revision-Date: 2015-07-26 14:41+0100\n"
+"Last-Translator: \n"
+"Language-Team:  <support@creativejuiz.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n:1,2;_nx:1,2;_noop_x:1,2;_noop_ex:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: juiz-post-count-views.php:103
+msgid "The most viewed posts on your site"
+msgstr "Les articles les plus vues de votre site"
+
+#: juiz-post-count-views.php:104 juiz-post-count-views.php:128
+msgid "Most Viewed Posts"
+msgstr "Articles les plus vues"
+
+#: juiz-post-count-views.php:162
+#, php-format
+msgid "%s views"
+msgstr "%s vues"
+
+#: juiz-post-count-views.php:211
+msgid "Title:"
+msgstr "Titre&nbsp;:"
+
+#: juiz-post-count-views.php:214
+msgid "Number of posts to show:"
+msgstr "Nombre d'articles affichés&nbsp;:"
+
+#: juiz-post-count-views.php:217
+msgid "What top do you want:"
+msgstr "Quel \"top\" voulez vous&nbsp;?"
+
+#: juiz-post-count-views.php:225
+msgid "Date format"
+msgstr "Format de date"
+
+#: juiz-post-count-views.php:227
+msgid "If you leave blank the actual time will be used."
+msgstr "Si vous laissez vide, la date actuelle sera utilisée."
+
+#: juiz-post-count-views.php:229
+msgid "Show posts count:"
+msgstr "Montrer le compte d'articles&nbsp;:"
